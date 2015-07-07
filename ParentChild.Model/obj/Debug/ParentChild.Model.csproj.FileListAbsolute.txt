@@ -1,0 +1,5 @@
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.Model\bin\Debug\ParentChild.Model.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.Model\bin\Debug\ParentChild.Model.pdb
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.Model\obj\Debug\ParentChild.Model.csprojResolveAssemblyReference.cache
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.Model\obj\Debug\ParentChild.Model.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.Model\obj\Debug\ParentChild.Model.pdb

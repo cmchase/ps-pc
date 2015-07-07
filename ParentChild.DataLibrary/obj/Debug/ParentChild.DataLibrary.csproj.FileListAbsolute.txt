@@ -1,0 +1,12 @@
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\ParentChild.DataLibrary.dll.config
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\ParentChild.DataLibrary.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\ParentChild.DataLibrary.pdb
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\ParentChild.Model.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\ParentChild.Model.pdb
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\obj\Debug\ParentChild.DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\obj\Debug\ParentChild.DataLibrary.dll
+C:\Users\Cory.Chase\Documents\Visual Studio 2013\Projects\ParentChild\ParentChild.DataLibrary\obj\Debug\ParentChild.DataLibrary.pdb
